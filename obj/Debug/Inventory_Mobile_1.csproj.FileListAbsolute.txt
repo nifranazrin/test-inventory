@@ -1,0 +1,41 @@
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.csproj.AssemblyReference.cache
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.Form1.resources
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.Form2.resources
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.Properties.Resources.resources
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.csproj.GenerateResource.cache
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.csproj.CoreCompileInputs.cache
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\bin\Debug\Inventory_Mobile_1.exe.config
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\bin\Debug\Inventory_Mobile_1.exe
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\bin\Debug\Inventory_Mobile_1.pdb
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.exe
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.pdb
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.Form3.resources
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.Form4.resources
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.Form5.resources
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.Form6.resources
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.Form7.resources
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.Form8.resources
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.Form10.resources
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.Form9.resources
+C:\Users\MIS Office 3\source\repos\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.Form11.resources
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\bin\Debug\Inventory_Mobile_1.exe.config
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\bin\Debug\Inventory_Mobile_1.exe
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\bin\Debug\Inventory_Mobile_1.pdb
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.Form11.resources
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.Properties.Resources.resources
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.exe
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.pdb
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.login1.resources
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.admin2.resources
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.adempoyee3.resources
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.adproduct4.resources
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.cashier6.resources
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.aditem5.resources
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.stfMngReport10.resources
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.cashItmTrans7.resources
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.print8.resources
+C:\Users\Hp\Desktop\nifra\Inventory_Mobile_1\Inventory_Mobile_1\obj\Debug\Inventory_Mobile_1.mangrDash9.resources
